@@ -1,4 +1,4 @@
-all: crane-deps build
+all: build
 
 build:
 	mkdir -p build
